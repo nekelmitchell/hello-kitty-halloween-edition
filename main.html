@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dress Up Hello Kitty</title>
+  
+</head>
+<body>
+
+  <div class="game-window">
+    <div class="window-header">Dress Up Hello Kitty</div>
+
+    <div id="game-area">
+      <!-- Selector screen (shows a user-provided PNG background when selecting a category) -->
+      <div id="selector-screen"></div>
+
+      <!-- Preview during selection -->
+      <img id="preview-img" src="" alt="Preview">
+
+      <!-- Hello Kitty base and overlays (hidden while selecting) -->
+      <img id="base-img" class="kitty-layer" src="basehellokitty.png" alt="base">
+      <img id="costume-img" class="kitty-layer" src="" alt="costume">
+
+
+      <!-- Final message overlay -->
+      <div id="message-overlay">
+        <p id="message-text"></p>
+        <button id="start-over-btn">Start Over</button>
+      </div>
+    </div>
+
+    <!-- Navigation for browsing items in the current stage -->
+    <div class="buttons" id="nav-buttons">
+      <button id="back-btn">◀ Prev</button>
+      <button id="confirm-btn">Yes, Done →</button>
+      <button id="forward-btn">Next ▶</button>
+    </div>
+
+    <!-- (Optional) show what stage user is on -->
+    <div style="margin-top:10px; font-size:10px; color:#2b2b2b;" id="stage-indicator"></div>
+  </div>
+
+
+</body>
+</html>
