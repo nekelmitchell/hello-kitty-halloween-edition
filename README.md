@@ -6,4 +6,6 @@ Features: Multiple costume options, Dynamic character updates, Animated interact
 
 Tech Stack: HTML, CSS, JavaScript
 
-Try it:
+Try it: https://nekelmitchell.github.io/hello-kitty-halloween-edition/
+
+![Screenshot](https://github.com/user-attachments/assets/65a0f020-a63f-4ae3-a480-6f572039fcca)
