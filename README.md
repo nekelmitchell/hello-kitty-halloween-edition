@@ -8,6 +8,10 @@ A Halloween-themed dress-up web game where users choose outfits for Hello Kitty 
 * Dynamic character updates.
 * Animated interactions.
 
+## Navigation
+* Press the **next button** and **previous button** to choose a costume.
+* Press the **yes, done button** once you have chosen a costume you like.
+
 ## Built With
 
 * HTML
