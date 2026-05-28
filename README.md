@@ -1,10 +1,18 @@
-Halloween Dress Up — Hello Kitty
+# Halloween Dress Up — Hello Kitty🎃
 
 A Halloween-themed dress-up web game where users choose outfits for Hello Kitty using interactive styling and JavaScript events.
 
-Features: Multiple costume options, Dynamic character updates, Animated interactions
+## Features
 
-Tech Stack: HTML, CSS, JavaScript
+* Multiple costume options.
+* Dynamic character updates.
+* Animated interactions.
+
+## Built With
+
+* HTML
+* CSS
+* JavaScript
 
 Try it: [https://nekelmitchell.github.io/hello-kitty-halloween-edition/](https://nekelmitchell.github.io/hello-kitty-halloween-edition/)
 
